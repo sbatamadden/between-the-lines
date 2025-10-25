@@ -4,10 +4,7 @@ __pycache__/
 *$py.class
 
 # Virtual environment
-.venv/
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
+.birb/
 
 # PyCharm / VSCode
 .idea/

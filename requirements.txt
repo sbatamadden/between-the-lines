@@ -1,0 +1,14 @@
+numpy
+pandas
+nltk
+spacy
+transformers
+torch
+sentencepiece
+scikit-learn
+tqdm
+wordcloud
+matplotlib
+pytest
+black
+flake8
